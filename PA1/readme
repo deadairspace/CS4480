@@ -1,0 +1,10 @@
+// Meysam H
+
+// pa1-final 
+
+****Please use python 2.7 to run my Proxy****
+
+(1)  OPen terminal and type python pa1-final.py (any port number) "My port number is 3200"
+(2) Open another terminal for telnet and type "telnet localhost 3200"
+(3) After you connect to the proxy, it accepts any GET requests and checking for any malware request.
+
